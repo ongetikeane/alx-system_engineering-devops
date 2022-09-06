@@ -1,0 +1,3 @@
+#!/bin/bash
+find -type f -name "-glf" | cut -d '/' -f 1 cut -d '_' -f z- | rev |
+lc_ALL-Csort -f
