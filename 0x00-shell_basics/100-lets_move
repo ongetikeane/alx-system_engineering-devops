@@ -1,2 +1,2 @@
 #!/bin/bash
-mv ((:upper:))* /tmp/u 100-lets_move
+mv [[:upper:]]* /tmp/u
